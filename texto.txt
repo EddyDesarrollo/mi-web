@@ -1,2 +1,3 @@
 ARCHIVO CON TEXTO
 Generar conflicto con la sincronización del repositorio
+Linea agregada
